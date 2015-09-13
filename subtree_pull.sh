@@ -1,1 +1,1 @@
-git pull -s subtree --squash sample_subtree develop
+git subtree pull --prefix sample_subtree sample_subtree develop --squash
