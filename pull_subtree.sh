@@ -1,0 +1,1 @@
+git pull -s subtree --squash sample_subtree develop
