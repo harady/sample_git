@@ -1,0 +1,3 @@
+[submodule "sample_submodule"]
+	path = sample_submodule
+	url = https://github.com/harady/sample_submodule.git
