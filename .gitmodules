@@ -1,3 +1,4 @@
 [submodule "sample_submodule"]
 	path = sample_submodule
-	url = https://github.com/harady/sample_submodule.git
+	url = https://2bb4a9e375beaa394a59b46e61b505a1a987471a:x-oauth-basic@github.com/harady/sample_submodule.git
+	branch = origin/develop

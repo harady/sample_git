@@ -1,1 +1,1 @@
-git subtree push --prefix=sample_subtree/ sample_subtree develop
+git subtree push --prefix=sample_subtree sample_subtree develop --rejoin

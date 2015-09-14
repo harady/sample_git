@@ -1,0 +1,1 @@
+git subtree split --prefix=sample_subtree --rejoin
